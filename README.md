@@ -1,2 +1,12 @@
-# designer
-CV Senior graphic designer
+---
+title: CV - Хайрльварин Булат
+emoji: 💼
+colorFrom: blue
+colorTo: gray
+sdk: static
+pinned: false
+---
+
+# Портфолио — Хайрльварин Булат
+
+Системный аналитик
